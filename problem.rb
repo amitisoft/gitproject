@@ -9,4 +9,6 @@ class Problem {
  function updatedB() {}
 
  function updateC() {}
+
+ function updated() {}
 }
